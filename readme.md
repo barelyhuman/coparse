@@ -2,6 +2,10 @@
 
 > Parse CLI flags from a file
 
+
+[![CI](https://github.com/barelyhuman/coparse/actions/workflows/ci.yml/badge.svg)](https://github.com/barelyhuman/coparse/actions/workflows/ci.yml)
+
+
 > **Warning**: Still in ideation stage
 
 > **Note**: This is being written to help with
